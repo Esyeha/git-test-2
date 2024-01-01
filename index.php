@@ -8,5 +8,8 @@
 <body>
     <h1>helo world</h1>
     <p>paragarf untuk test git remote</p>
+    <li>satu</li>
+    <li>dua</li>
+    <li>tiga</li>
 </body>
 </html>
